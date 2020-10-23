@@ -15,7 +15,7 @@
 ## Step by Step Process
 
 
-**Step 1: Download the zip file from the url given below and unzip it the directory of use
+**Step 1: Download the zip file from the url given below and unzip it the directory of use **
 
       URL:  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
       
